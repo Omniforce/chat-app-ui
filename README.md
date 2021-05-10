@@ -1,1 +1,1 @@
-# vue-chat-app
+# chat-app-ui
