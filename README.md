@@ -1,1 +1,1 @@
-# vue-code-editor
+# vue-chat-app
